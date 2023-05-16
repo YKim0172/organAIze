@@ -1,0 +1,102 @@
+{% extends 'core/base.html' %}
+
+{% block content %}
+
+
+<nav class="navbar navbar-light justify-content-between" style="background-color: black">
+    <span class="navbar-brand px-2 py-1 mb-0 h1 text-white">
+        <h2>OrganAIze</h2>
+    </span>
+    <form class="form-inline">
+        <button class="btn btn-light my-2 my-sm-0 mr-3" type="button">
+            <a href="{% url 'login' %}" style="color: black;">Login</a>
+        </button>
+        <button class="btn btn-light my-2 my-sm-0" type="button">
+            <a href="{% url 'signup' %}" style="color: black;">Sign Up</a>
+        </button>
+    </form>
+</nav>
+<body style="background-color: black;">
+    <div style="
+            background-image: url(https://cdn.dribbble.com/users/967803/screenshots/12154132/media/0badee445a59c9f22c77f051b8df2b54.gif);
+            height: 850px;
+            background-position: -210px -20px;
+            background-repeat: no-repeat;">
+        <div class="container">
+            <h1 class="display-5 text-white">OrganAIze, the best tool to help you find the right Computer Science courses for you!</h1>
+            <p class="text-white">Computer Science is a broad field with many specialties (e.g., Machine Learning, Networking, Cryptography).
+                                Often times, students want to learn more about a specific specialty but may not know the courses that best suit their interests.
+                                Sometimes, students may want to build an application, but might be unaware of the relevant topics they need to learn. 
+                                However, with OrganAIse, students can discover the courses that will help them learn the skills they need.</p>
+            <hr class="my-4">
+            <p class="text-white">Using OrganAIse can be done in 4 simple steps:</p>
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-4 mb-4" style="margin-left: 430px; margin-top: 80px;">
+                        <div class="card">
+                            <img class="card-img-top" src="" alt="">
+        
+                            <div class="card-body">
+                                <h5 class="card-title" style="font-size: 20px;">Step 1: Create Your Account</h5>
+                                <p class="card-text" style="font-size: 14px;">
+                                    Create your account and tell us what courses you have already taken so far. Making an account is fast and takes less than 5 minutes!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4" style="margin-left: 780px; margin-top: -165px;">
+                        <div class="card">
+                            <img class="card-img-top" src="" alt="">
+        
+                            <div class="card-body">
+                                <h5 class="card-title" style="font-size: 20px;">Step 2: Tell us what you want to learn.</h5>
+                                <p class="card-text" style="font-size: 14px;">
+                                    When you login to your account, type into the search box anything you want to learn about. You can type in "I want to learn about web development"
+                                    or "How do I make a game where multiple different machines can play together". 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4" style="margin-left: 430px; margin-top: -60px;">
+                        <div class="card">
+                            <img class="card-img-top" src="" alt="">
+        
+                            <div class="card-body">
+                                <h5 class="card-title" style="font-size: 20px;">Step 3: See your recommend courses.</h5>
+                                <p class="card-text" style="font-size: 14px;">
+                                    You will see several courses that you haven't taken yet that align with your response in Step 2.
+                                    Not only will you see the best courses for you in order of relevance,
+                                    you'll also see the average GPA and hours spent for each class to better understand the difficulty and time commitment that's required.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4" style="margin-left: 780px; margin-top: -227px;">
+                        <div class="card">
+                            <img class="card-img-top" src="" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title" style="font-size: 18px;">Step 4: Update us on the courses you've taken and search again.</h5>
+                                <p class="card-text" style="font-size: 14px;">
+                                    Let us know what courses you've finished by editing your profile.
+                                    Then go back to step 2 and repeat the process from there,
+                                    and every future search will take into account the courses you've just told us you've taken.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<nav class="navbar navbar-light fixed-bottom" style="background-color: black">
+    <span class="navbar-brand px-2 py-0 h1 text-white">
+        <h5>Developed by Yu Hyun Kim and Terrance Shao</h5>
+    </span>
+</nav>
+{% endblock %}

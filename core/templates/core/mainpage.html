@@ -1,0 +1,108 @@
+{% extends 'core/base.html' %}
+
+{% block content %}
+
+{% if user.is_authenticated %}
+
+{% if messages %}
+    {% for message in messages %}
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        {{ message }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    {% endfor %}
+{% endif %}
+
+<nav class="navbar navbar-light justify-content-between" style="background-color: black">
+    <span class="navbar-brand px-2 py-1 mb-0 h1 text-white">
+        <h2>OrganAIze</h2>
+    </span>
+
+    <form class="form-inline">
+        <button class="btn btn-light my-2 my-sm-0 mr-3" type="button">
+            <a href="{% url 'edit_profile' %}" style="color: black;">Edit Profile</a>
+        </button>
+        <button class="btn btn-light my-2 my-sm-0" type="button">
+            <a href="{% url 'logout' %}" style="color: black;">Log Out</a>
+        </button>
+    </form>
+</nav>
+
+<body style="background-color: black; background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://wallpapercrafter.com/desktop1/611724-mathematics-formula-science-chalkboard-1080P.jpg);">
+    
+    <div class="container-fluid" style="margin-top: 13px; margin-left: 80px;">
+        <div class="row gx-4" style="text-align:center;">
+
+            <style>
+                .card-img-top {
+                    height: 11vw;
+                    object-fit: cover;
+                }
+            </style>
+
+            <div class="col">
+                <div class="card" style="width: 29rem; border-color: darkcyan; border-width: 2px;">
+                    <img class="card-img-top" style="height: 300px;" src="https://live.staticflickr.com/4387/36231833334_3252f05552_b.jpg" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title" style="font-size: 16px;">Courses by Relevancy</h5>
+                    <p class="card-text">(The top course is the most relevant to your interests)</p>
+                    </div>
+                    <ul class="list-group list-group-flush" style="font-size: 13px;">
+                        {% for course in courses_by_relevancy %}
+                            <li class="list-group-item">{{ course }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card" style="width: 29rem; border-color: purple; border-width: 2px;">
+                    <img class="card-img-top" style="height: 300px;" src="https://gradecentric.com/wp-content/uploads/2023/04/GPA-Calculator-Image-2.png" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title" style="font-size: 16px;">Courses by Difficulty</h5>
+                    <p class="card-text">(The top course is the easiest and has the highest GPA)</p>
+                    </div>
+                    <ul class="list-group list-group-flush" style="font-size: 13px;">
+                        {% for course in courses_by_gpa %}
+                            <li class="list-group-item">{{ course }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card" style="width: 29rem; border-color: darkorange; border-width: 2px;">
+                    <img class="card-img-top" style="height: 300px;" src="https://i0.wp.com/s3.amazonaws.com/s3.nmpoliticalreport.com/wp-content/uploads/2021/03/15203206/shutterstock_766610023-scaled.jpg?fit=1200%2C1200&ssl=1" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title" style="font-size: 16px;">Courses by Time Commitment</h5>
+                    <p class="card-text">(The top course is the least time consuming, by hours)</p>
+                    </div>
+                    <ul class="list-group list-group-flush" style="font-size: 13px;">
+                        {% for course in courses_by_hours %}
+                            <li class="list-group-item">{{ course }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+
+    <form method="post" action="{% url 'mainpage' %}" class="fixed-bottom">
+        {% csrf_token %}
+        <div class="form-group" style="margin-top: 500px; text-align: center;">
+            <label for="exampleFormControlTextarea1">
+                <h4 style="font-size: 29px; color: white" class="font-weight-light">What do you want to learn about?</h4>
+            </label>
+            <textarea type="text" class="form-control text-white col-lg-5" style="font-family: Cambria; background-color: rgb(22, 22, 22); border-color: white; border-width: 5px; margin-left: auto; margin-right: auto;" name="USERTEXT" rows="4"></textarea>
+            <input type="submit" class="btn btn-danger col-5 btn-block" style="margin-left: auto; margin-right: auto;"></input>
+        </div>
+    </form>
+</body>
+{% else %}
+
+{% endif %}
+
+{% endblock %}

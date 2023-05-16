@@ -1,0 +1,65 @@
+{% extends 'core/base.html' %}
+
+{% block content %}
+{% if user.is_authenticated %}
+
+{% else %}
+    {% if form.errors %}
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            error
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    {% endif %}
+
+<nav class="navbar navbar-light justify-content-between" style="background-color: black">
+    <span class="navbar-brand px-2 py-1 mb-0 h1 text-white">
+        <h2>OrganAIze</h2>
+    </span>
+    <form class="form-inline">
+        <button class="btn btn-light my-2 my-sm-0 mr-3" type="button">
+            <a href="/homepage" style="color: black;">Back to Home</a>
+        </button>
+    </form>
+</nav>
+
+<body style="background-color: black;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(https://images.squarespace-cdn.com/content/v1/56d5c5a186db4382d5719206/1664464572074-8EBKEC08H3TBBUJD4T6J/birds-eye-final.jpg);
+            ">
+    <div class="container">
+        <h1 class="display-4 text-white" style="text-align: center;">Tell us about yourself!</h1>
+        <form method="post" action="{% url 'signup' %}" class="text-white px-5" style="margin-top: 100px;">
+            {% csrf_token %}
+
+            <div class="form-group" style="margin-left: 350px;">
+            <label for="exampleInputEmail1">What should we call you?</label>
+                {{ form.first_name }}
+            </div>
+
+            <div class="form-group" style="margin-left: 350px;">
+                <label for="exampleInputEmail1">Email address</label>
+                {{ form.username }}
+            </div>
+
+            <div class="form-group" style="margin-left: 350px;">
+            <label for="exampleInputPassword1">Password</label>
+                {{ form.password1 }}
+            </div>
+
+            <div class="form-group" style="margin-left: 350px;">
+                <label for="exampleInputPassword1">Repeat Password</label>
+                {{ form.password2 }}
+            </div>
+
+            <div class="center" style="margin-bottom: 100px;"></div>
+                <button type="submit" class="btn btn-primary" style="margin-left: 480px;">Submit</button>
+            </div>
+        </form>
+    </div>
+
+</body>
+
+
+{% endif %}
+{% endblock %}

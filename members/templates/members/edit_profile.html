@@ -1,0 +1,209 @@
+{% extends 'core/base.html' %}
+
+{% block content %}
+
+{% if form.errors %}
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        error
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+{% endif %}
+
+<nav class="navbar navbar-light justify-content-between" style="background-color: black">
+    <span class="navbar-brand px-2 py-1 mb-0 h1 text-white">
+        <h2>OrganAIze</h2>
+    </span>
+    <form class="form-inline">
+        <button class="btn btn-light my-2 my-sm-0 mr-3" type="button">
+            <a href="{% url 'mainpage' %}" style="color: black;">Back to Home</a>
+        </button>
+    </form>
+</nav>
+
+<body style="background-color: black;
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(https://images.squarespace-cdn.com/content/v1/56d5c5a186db4382d5719206/1664464572074-8EBKEC08H3TBBUJD4T6J/birds-eye-final.jpg);
+            ">
+    <h1 class="display-4 text-white" style="text-align: center;">Edit profile</h1>
+    <form method="post" action="{% url 'edit_profile' %}" class="text-white px-5" style="margin-top: 100px;">
+        {% csrf_token %}
+
+        <div label="text-white" style="margin-left: 700px; margin-top: -70px;">
+            <h3>What courses have you've taken?</h3>
+
+            <div class="col">
+
+                <ul>
+                    <div class="btn-group dropright">
+                        <button class="btn btn-danger dropdown-toggle" style="margin-left: 50px; width: 225px; font-size: 14px;" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            500/600-Level EECS Courses
+                        </button>
+                        <ul class="dropdown-menu">
+                            {{ update_form.taken_EECS501 }} EECS 501
+                            {{ update_form.taken_EECS507 }} EECS 507
+
+                            {{ update_form.taken_EECS517 }} EECS 517
+                            {{ update_form.taken_EECS520 }} EECS 520
+                            {{ update_form.taken_EECS523 }} EECS 523
+
+                            {{ update_form.taken_EECS530 }} EECS 530
+                            {{ update_form.taken_EECS540 }} EECS 540
+                            {{ update_form.taken_EECS542 }} EECS 542
+                            {{ update_form.taken_EECS544 }} EECS 544
+
+                            {{ update_form.taken_EECS551 }} EECS 551
+                            {{ update_form.taken_EECS553 }} EECS 553
+                            {{ update_form.taken_EECS554 }} EECS 554
+                            {{ update_form.taken_EECS558 }} EECS 558
+
+                            {{ update_form.taken_EECS560 }} EECS 560
+                            {{ update_form.taken_EECS561 }} EECS 561
+                            {{ update_form.taken_EECS563 }} EECS 563
+                            {{ update_form.taken_EECS564 }} EECS 564
+
+                            {{ update_form.taken_EECS574 }} EECS 574
+                            {{ update_form.taken_EECS575 }} EECS 575
+
+                            {{ update_form.taken_EECS582 }} EECS 582
+                            {{ update_form.taken_EECS584 }} EECS 584
+                            {{ update_form.taken_EECS587 }} EECS 587
+
+                            {{ update_form.taken_EECS595 }} EECS 595
+                            {{ update_form.taken_EECS598 }} EECS 598
+                            {{ update_form.taken_EECS599 }} EECS 599
+                        </ul>
+                    </div>
+                </ul>
+
+                <ul>
+                    <div class="btn-group dropright">
+                        <button class="btn btn-warning dropdown-toggle" style="margin-left: 50px; width: 225px;" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            400-Level EECS Courses
+                        </button>
+                        <ul class="dropdown-menu">
+                            {{ update_form.taken_EECS402 }} EECS 402
+                            {{ update_form.taken_EECS409 }} EECS 409
+                            {{ update_form.taken_EECS411 }} EECS 411
+                            {{ update_form.taken_EECS413 }} EECS 413
+                            {{ update_form.taken_EECS414 }} EECS 414
+                            {{ update_form.taken_EECS421 }} EECS 421
+                            {{ update_form.taken_EECS423 }} EECS 423
+                            {{ update_form.taken_EECS427 }} EECS 427
+                            {{ update_form.taken_EECS428 }} EECS 428
+
+                            {{ update_form.taken_EECS434 }} EECS 434
+                            {{ update_form.taken_EECS435 }} EECS 435
+                            {{ update_form.taken_EECS441 }} EECS 441
+                            {{ update_form.taken_EECS442 }} EECS 442
+                            {{ update_form.taken_EECS443 }} EECS 443
+                            {{ update_form.taken_EECS445 }} EECS 445
+                            {{ update_form.taken_EECS452 }} EECS 452
+                            {{ update_form.taken_EECS453 }} EECS 453
+                            {{ update_form.taken_EECS455 }} EECS 455
+
+                            {{ update_form.taken_EECS458 }} EECS 458
+                            {{ update_form.taken_EECS460 }} EECS 460
+                            {{ update_form.taken_EECS461 }} EECS 461
+                            {{ update_form.taken_EECS463 }} EECS 463
+                            {{ update_form.taken_EECS464 }} EECS 464
+                            {{ update_form.taken_EECS465 }} EECS 465
+                            {{ update_form.taken_EECS467 }} EECS 467
+
+                            {{ update_form.taken_EECS470 }} EECS 470
+                            {{ update_form.taken_EECS471 }} EECS 471
+                            {{ update_form.taken_EECS473 }} EECS 473
+                            {{ update_form.taken_EECS475 }} EECS 475
+                            {{ update_form.taken_EECS477 }} EECS 477
+
+                            {{ update_form.taken_EECS482 }} EECS 482
+                            {{ update_form.taken_EECS483 }} EECS 483
+                            {{ update_form.taken_EECS484 }} EECS 484
+                            {{ update_form.taken_EECS485 }} EECS 485
+                            {{ update_form.taken_EECS487 }} EECS 487
+                            {{ update_form.taken_EECS489 }} EECS 489
+
+                            {{ update_form.taken_EECS490 }} EECS 490
+                            {{ update_form.taken_EECS491 }} EECS 491
+                            {{ update_form.taken_EECS492 }} EECS 492
+                            {{ update_form.taken_EECS494 }} EECS 494
+                            {{ update_form.taken_EECS495 }} EECS 495
+                            {{ update_form.taken_EECS496 }} EECS 496
+                            {{ update_form.taken_EECS497 }} EECS 497
+                            {{ update_form.taken_EECS498 }} EECS 498
+                            {{ update_form.taken_EECS499 }} EECS 499
+
+                        </ul>
+                    </div>
+                </ul>
+
+
+                <ul>
+                    <div class="btn-group dropright">
+                        <button class="btn btn-info dropdown-toggle" style="margin-left: 50px; width: 225px;" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            300-Level EECS Courses
+                        </button>
+                        <ul class="dropdown-menu">
+                            {{ update_form.taken_EECS300 }} EECS 300
+                            {{ update_form.taken_EECS301 }} EECS 301
+                            {{ update_form.taken_EECS311 }} EECS 311
+                            {{ update_form.taken_EECS312 }} EECS 312
+                            {{ update_form.taken_EECS314 }} EECS 314
+                            {{ update_form.taken_EECS320 }} EECS 320
+                            {{ update_form.taken_EECS330 }} EECS 330
+                            {{ update_form.taken_EECS334 }} EECS 334
+                            {{ update_form.taken_EECS351 }} EECS 351
+                            {{ update_form.taken_EECS370 }} EECS 370
+                            {{ update_form.taken_EECS373 }} EECS 373
+                            {{ update_form.taken_EECS376 }} EECS 376
+                            {{ update_form.taken_EECS388 }} EECS 388
+                            {{ update_form.taken_EECS399 }} EECS 399
+                        </ul>
+                    </div>
+                </ul>
+
+                <ul>
+                    <div class="btn-group dropright">
+                        <button class="btn btn-success dropdown-toggle" style="margin-left: 50px; width: 225px;" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            200-Level EECS Courses
+                        </button>
+                        <ul class="dropdown-menu">
+                            {{ update_form.taken_EECS200 }} EECS 200
+                            {{ update_form.taken_EECS201 }} EECS 201
+                            {{ update_form.taken_EECS203 }} EECS 203
+                            {{ update_form.taken_EECS215 }} EECS 215
+                            {{ update_form.taken_EECS216 }} EECS 216
+                            {{ update_form.taken_EECS230 }} EECS 230
+                            {{ update_form.taken_EECS270 }} EECS 270
+                            {{ update_form.taken_EECS280 }} EECS 280
+                            {{ update_form.taken_EECS281 }} EECS 281
+                            {{ update_form.taken_EECS298 }} EECS 298
+                        </ul>
+                    </div>
+                </ul>
+
+                <ul>
+                    <div class="btn-group dropright">
+                        <button class="btn btn-light dropdown-toggle" style="margin-left: 50px; width: 225px;" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            100-Level EECS Courses
+                        </button>
+                        <ul class="dropdown-menu">
+                            {{ update_form.taken_EECS110 }} EECS 110
+                            {{ update_form.taken_EECS183 }} EECS 183
+                        </ul>
+                    </div>
+                </ul>
+
+            </div>
+
+
+        </div>
+        <div class="center" style="text-align: center;">
+            <button type="submit" class="btn btn-primary">Save changes</button>
+        </div>
+      </form>
+
+</body>
+
+
+{% endblock %}

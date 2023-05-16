@@ -1,0 +1,400 @@
+EECS 110 - Discover Computer Science,CS computer science basics introductory introduction intro
+EECS 110 - Discover Computer Science,Computer Science concepts
+EECS 110 - Discover Computer Science,variable conditional
+EECS 110 - Discover Computer Science,loops functions
+EECS 110 - Discover Computer Science,code coding programming
+EECS 110 - Discover Computer Science,write code Python
+EECS 110 - Discover Computer Science,program
+EECS 183 - Elementary Programming Concepts,strings programming c++ computer science CS loops functions
+EECS 183 - Elementary Programming Concepts,arrays lists
+EECS 183 - Elementary Programming Concepts,test debug code
+EECS 183 - Elementary Programming Concepts,coding projects project
+EECS 183 - Elementary Programming Concepts,algorithm algorithms loop function functions
+EECS 200 - Electrical Engineering Systems Design I,electrical Engineering systems EE 
+EECS 200 - Electrical Engineering Systems Design I,circuits electric engineer
+EECS 200 - Electrical Engineering Systems Design I,sensors sensor
+EECS 200 - Electrical Engineering Systems Design I,optics power optic 
+EECS 200 - Electrical Engineering Systems Design I,signal processing process
+EECS 201 - Computer Science Pragmatics,shells compiler tool
+EECS 201 - Computer Science Pragmatics,environments environment
+EECS 201 - Computer Science Pragmatics,scripting version control
+EECS 201 - Computer Science Pragmatics,Makefiles tools
+EECS 201 - Computer Science Pragmatics,compilers debugging debug
+EECS 203 - Discrete Math,math mathematics mathematical computer science cs 
+EECS 203 - Discrete Math,theory proposition combination counting count
+EECS 203 - Discrete Math,propositional predicate logic discrete 
+EECS 203 - Discrete Math,set theory function functions relation relations
+EECS 203 - Discrete Math,time complexity asymptotic notation complexity
+EECS 203 - Discrete Math,growth functions proof complex induction inductive permutation permutations relation 
+EECS 203 - Discrete Math,probability intro probablity introduction combinatorics
+EECS 203 - Discrete Math,graph theory graphs connectivity
+EECS 215 - Introduction to Electronic Circuits,voltage current basic concepts
+EECS 215 - Introduction to Electronic Circuits,Kirchhoff voltage current laws Ohm law
+EECS 215 - Introduction to Electronic Circuits,Ohm law Ohms EE electrical engineering engineer 
+EECS 215 - Introduction to Electronic Circuits,Thevenin Norton equivalent circuits computer engineer
+EECS 215 - Introduction to Electronic Circuits,laboratory electric signals circuits terminology resistive circuit analysis opertional amplifier amplifiers filter filters
+EECS 216 - Introduction to Signals and Systems,Theory signals systems engineering electrical engineering computer 
+EECS 216 - Introduction to Signals and Systems,Fourier series transforms spectrum digital signal processing
+EECS 216 - Introduction to Signals and Systems,theory signals sytems discrete time Fourier Laplace transforms
+EECS 216 - Introduction to Signals and Systems,poles zeros stability RLC circuit analysis
+EECS 216 - Introduction to Signals and Systems,communications control processing Matlab  
+EECS 230 - Engineering Electromagnetics,Vector Calculus Electrostatics magnetostatics electromagnetic electromagnetics
+EECS 230 - Engineering Electromagnetics,Faraday's law displacement current smith chart magnetically coupled circuits 
+EECS 230 - Engineering Electromagnetics,Maxwell equations differential form couples resonators shielded loop 
+EECS 230 - Engineering Electromagnetics,traveling waves phasors impedance matching phasor 
+EECS 230 - Engineering Electromagnetics,Faraday's law displacement  
+EECS 270 - Introduction to Logic Design,Boolean algebra digital design techniques logic gates logic state minimization electrical engineering computer
+EECS 270 - Introduction to Logic Design,Boolean algebra digital design techniques logic gates logic state minimization digital logic logics design devices device
+EECS 270 - Introduction to Logic Design,standard combinational circuits latches flip flops sequential circuits synthesis
+EECS 270 - Introduction to Logic Design,of synchronous sequential circuits state machines FPGAs memories arithmetic circuits computer-aided design
+EECS 280 - Programming and Introductory Data Structures,programming program C++ cs computer science data structure
+EECS 280 - Programming and Introductory Data Structures,stacks queues data structures
+EECS 280 - Programming and Introductory Data Structures,arrays tree linked list lists
+EECS 280 - Programming and Introductory Data Structures,data types machine learning euchre backend web image processing
+EECS 280 - Programming and Introductory Data Structures,functions pointers low level fundamental fundamentals 
+EECS 280 - Programming and Introductory Data Structures,pointers data types stack queues data structures
+EECS 280 - Programming and Introductory Data Structures,data structures ds
+EECS 281 - Data Structures and Algorithms,asymptotic complexity algorithms algorithm lists
+EECS 281 - Data Structures and Algorithms,algorithms data structures stacks priority queues hashmap hash table
+EECS 281 - Data Structures and Algorithms,binary tree trees search sorting searching recursion recursive programming
+EECS 281 - Data Structures and Algorithms,c++ C++ graph algorithms greedy divide conquer
+EECS 281 - Data Structures and Algorithms,strategy algorithms stack queue priority mergesort quicksort elementary sorts sort 
+EECS 281 - Data Structures and Algorithms,coding projects code programming projects cs computer science ds data structure structures
+EECS 298 - Special Topics,pilot versions new courses special Topics
+EECS 300 - Electrical Engineering Systems Design II,electrical engineering ee computer engineering 
+EECS 300 - Electrical Engineering Systems Design II,systems level system
+EECS 300 - Electrical Engineering Systems Design II,design project electrical
+EECS 300 - Electrical Engineering Systems Design II,power sensing tradeoffs open ended projects design
+EECS 300 - Electrical Engineering Systems Design II,electrical systems system
+EECS 301 - Probabilistic Methods in Engineering,probability theory basic engineering engineer
+EECS 301 - Probabilistic Methods in Engineering,basic statistics probability engineering statistic 
+EECS 301 - Probabilistic Methods in Engineering,stats discrete continuous conditional probability distributions averages independence
+EECS 301 - Probabilistic Methods in Engineering,discrete continuous conditional probability distributions distribution average averages independence
+EECS 301 - Probabilistic Methods in Engineering,statistical inference hypothesis testing estimation introduction discrete continuous random processes
+EECS 301 - Probabilistic Methods in Engineering,statistical inference hypothesis testing estimation introduction discrete continuous random processes
+EECS 311 - Analog Circuits,DC AC circuit models for diodes, bipolar junction transistors field-effect transistors
+EECS 311 - Analog Circuits,DC AC circuit models diodes bipolar junction transistors field effect transistors
+EECS 311 - Analog Circuits,DC AC circuit models diodes bipolar diode model computer engineering
+EECS 311 - Analog Circuits,DC AC circuit models diodes bipolar EE CE engineer
+EECS 311 - Analog Circuits,DC AC circuit models diodes bipolar electrical engineering
+EECS 312 - Digital Integrated Circuits,Memory structures structure static dynamic RAM circuit power
+EECS 312 - Digital Integrated Circuits,Memory structures static dynamic RAM circuit power
+EECS 312 - Digital Integrated Circuits,Memory structures static dynamic RAM circuit power
+EECS 312 - Digital Integrated Circuits,Memory structures static dynamic RAM
+EECS 312 - Digital Integrated Circuits,Memory structures static dynamic RAM
+EECS 314 - Electrical Circuits Systems and Applications,electrical systems system operation specifications interactions with other modules theory
+EECS 314 - Electrical Circuits Systems and Applications,circuit fundamentals fundamental
+EECS 314 - Electrical Circuits Systems and Applications,circuit circuits analyze
+EECS 314 - Electrical Circuits Systems and Applications,analyze circuit circuits
+EECS 314 - Electrical Circuits Systems and Applications,building circuits
+EECS 314 - Electrical Circuits Systems and Applications,electrical engineering engineer EE computer CE
+EECS 320 - Introduction to Semiconductor Devices,introduction semiconductors atomic bonding electron energy bands
+EECS 320 - Introduction to Semiconductor Devices,introduction semiconductors atomic bonding electron energy bands
+EECS 320 - Introduction to Semiconductor Devices,semiconductor atom bond electrons 
+EECS 320 - Introduction to Semiconductor Devices,electrons electric electrical engineering
+EECS 320 - Introduction to Semiconductor Devices,semiconductors semiconductor devices
+EECS 330 - Introduction to Antennas and Wireless Systems,Electromagnetic fields waves wave applied antennas wireless systems system
+EECS 330 - Introduction to Antennas and Wireless Systems,Electromagnetic fields field waves apply applied antennas wireless systems
+EECS 330 - Introduction to Antennas and Wireless Systems,Electromagnetic fields waves applied antennas wireless systems
+EECS 330 - Introduction to Antennas and Wireless Systems,wave reflection transmission dipoles arrays horn patch antennas waveguides microstrip lines resonators applications communication radar systems
+EECS 330 - Introduction to Antennas and Wireless Systems,wave reflection transmission dipole dipoles arrays horn patch antennas waveguides microstrip lines resonators applications communication radar systems
+EECS 334 - Principles of Optics,Basic principles optics optic
+EECS 334 - Principles of Optics,optics light sources source propagation light geometrical optics lenses imaging ray tracing lens aberrations
+EECS 334 - Principles of Optics,optics light sources propagation light geometrical optics lenses imaging ray tracing lens aberrations
+EECS 334 - Principles of Optics,interference light waves wave coherent incoherent light beams Fresnel Fraunhofer diffraction
+EECS 334 - Principles of Optics,interference light waves coherent incoherent light beam beams Fresnel Fraunhofer diffraction
+EECS 351 - Introduction to Digital Signal Processing,signals signal processing digital
+EECS 351 - Introduction to Digital Signal Processing,DSP methods applications Sampling reconstruction difference equations convolution stability z-transform transfer function frequency response FIR IIR
+EECS 351 - Introduction to Digital Signal Processing,DTFT DFT FFT windows spectrogram computer-aided filter design correlation multirate basic image processing discrete-time wavelets
+EECS 351 - Introduction to Digital Signal Processing,DSP methods applications Sampling reconstruction difference equations convolution stability z-transform transfer function frequency response FIR IIR
+EECS 351 - Introduction to Digital Signal Processing,DTFT DFT FFT windows spectrogram computer-aided filter design correlation multirate basic image processing discrete-time wavelets
+EECS 370 - Introduction to Computer Organization,concepts computer organization hardware
+EECS 370 - Introduction to Computer Organization,assembly coding projects programming program storage stored memory
+EECS 370 - Introduction to Computer Organization,data path processor processing pipelining caches memory virtual memory low level
+EECS 370 - Introduction to Computer Organization,assembly coding projects programming program storage stored memory hardware coding projects
+EECS 370 - Introduction to Computer Organization,data path processor processing pipelining caches memory virtual memory
+EECS 373 - Introduction to Embedded System Design,Principles principle designing application specific computer systems interact 
+EECS 373 - Introduction to Embedded System Design,analog interfacing interface design
+EECS 373 - Introduction to Embedded System Design,microprocessors microprocessor reconfigurable hardware sensors actuators Complex hardware software system design implementation
+EECS 373 - Introduction to Embedded System Design,hardware software program programming design implementation projects project coding
+EECS 373 - Introduction to Embedded System Design,microprocessors reconfigurable hardware sensors actuators Complex hardware software system design implementation
+EECS 376 - Foundations of Computer Science,Introduction theory computation Models model computation finite state machines Turing machines Decidable undecidable problems
+EECS 376 - Foundations of Computer Science,Introduction theory computation Models computation finite state machines Turing machines Decidable undecidable problems
+EECS 376 - Foundations of Computer Science,Polynomial time computability paradigms algorithm design computational complexity emphasizing NP-hardness Coping with intractability Exploiting intractability cryptography
+EECS 376 - Foundations of Computer Science,Polynomial time computability paradigms paradigm algorithm design computational complexity emphasizing NP-hardness Coping with intractability Exploiting intractability cryptography
+EECS 388 - Introduction to Computer Security,principles principle practices computer security applied software host systems networks foundations of building using managing secure systems
+EECS 388 - Introduction to Computer Security,principles practices computer security applied software host systems networks foundations of building using managing secure systems
+EECS 388 - Introduction to Computer Security,cryptographic functions protocols threats defenses real world systems incident responses computer forensics cryptography
+EECS 388 - Introduction to Computer Security,cryptographic functions protocols threats defenses real world systems incident responses computer forensics cryptography
+EECS 388 - Introduction to Computer Security,projects programming program coding
+EECS 399 - Directed Study,CS computer science areas special interest design problems
+EECS 399 - Directed Study,CS computer science areas special interest design problems
+EECS 402 - Computer Programming for Scientists and Engineers,programming programs science real world problems engineering hands 
+EECS 402 - Computer Programming for Scientists and Engineers,programming real world
+EECS 402 - Computer Programming for Scientists and Engineers,program c++ python computer science CS
+EECS 402 - Computer Programming for Scientists and Engineers,apply programming science
+EECS 402 - Computer Programming for Scientists and Engineers,code computer science major
+EECS 402 - Computer Programming for Scientists and Engineers,cs major
+EECS 409 - Data Science Seminar,data science ds computer science datas statistics statistic
+EECS 409 - Data Science Seminar,data science
+EECS 409 - Data Science Seminar,professionals
+EECS 409 - Data Science Seminar,low workload
+EECS 409 - Data Science Seminar,low difficulty
+EECS 411 - Microwave Circuits I,transmission line theory microstrip coplanar lines parameters signal flow graphs matching networks directional couplers low pass band pass filters diode detectors design fabrication measurements microwave intergrated circuits cad
+EECS 411 - Microwave Circuits I,cad
+EECS 411 - Microwave Circuits I,microwave circuits circuit 
+EECS 411 - Microwave Circuits I,transmission lines
+EECS 411 - Microwave Circuits I,circuits computer engineer engineering
+EECS 411 - Microwave Circuits I,electrical engineering
+EECS 411 - Microwave Circuits I,EE
+EECS 413 - Monolith Amplifier Circuits,bjt mos multi transistor amplifier feedback theory amplifiers stability considerations pole zero cancellation root locus techniques operational
+EECS 413 - Monolith Amplifier Circuits,circuits
+EECS 413 - Monolith Amplifier Circuits,electrical engineering
+EECS 413 - Monolith Amplifier Circuits,EE electric engineer computer
+EECS 413 - Monolith Amplifier Circuits,amplifiers amplifier
+EECS 414 - Intro to MEMS,micro electrical mechanical systems machining microfabrication planar thin film processing silican etching wafer bonding photolithography deposition etching transduction mechanismsenergy domains capcitive piezoresistive thermal sensors actuators
+EECS 414 - Intro to MEMS,micro electro mechanical systems
+EECS 414 - Intro to MEMS,micromachining electrical engineering engineer computer engineer engineering
+EECS 414 - Intro to MEMS,mechanical engineering
+EECS 414 - Intro to MEMS,electromechanical engineering
+EECS 421 - Properties of Transistors,physics physic ic components metal semiconductor junctions metal oxide semiconductor junctions
+EECS 421 - Properties of Transistors,transistors transistor
+EECS 421 - Properties of Transistors,information processing
+EECS 421 - Properties of Transistors,properties transistors
+EECS 423 - Micro Nano Device Fabrication and Characterization,semiconductor material device fabrication diodes bipolar field effect transistors passive components oxidation diffusion deposition etching photolithography
+EECS 423 - Micro Nano Device Fabrication and Characterization,semiconductors
+EECS 423 - Micro Nano Device Fabrication and Characterization,device fabrication
+EECS 423 - Micro Nano Device Fabrication and Characterization,micro nano device fabrication Characterization
+EECS 423 - Micro Nano Device Fabrication and Characterization,electrical engineering
+EECS 427 - Very Large Scale Integrated Design I,design techniques vlsi circuits design rule checking logic circuit simulation CMOS circuit delay power analysis logic circuit families adders multipliers memory arrays sequential circuits interconnects clock power distribution RISC processor
+EECS 427 - Very Large Scale Integrated Design I,large scale design
+EECS 427 - Very Large Scale Integrated Design I,integrated design
+EECS 427 - Very Large Scale Integrated Design I,circuits
+EECS 427 - Very Large Scale Integrated Design I,electrical engineering
+EECS 427 - Very Large Scale Integrated Design I,EE
+EECS 428 - Introduction to Quantum Nanotechnology,Quantum Nanotechnology
+EECS 428 - Introduction to Quantum Nanotechnology,quantum vibrator resonant tunneling
+EECS 428 - Introduction to Quantum Nanotechnology,quantum circuits flip flop
+EECS 428 - Introduction to Quantum Nanotechnology,quantum information vacuum
+EECS 428 - Introduction to Quantum Nanotechnology,quantum behavior nano devices materials
+EECS 434 - Principles of Photonics,photonics opto electronics lasers fiber optics
+EECS 434 - Principles of Photonics,mirrors interferometers modulators propagation waveguides
+EECS 434 - Principles of Photonics,photons semiconductors lasers detectors
+EECS 434 - Principles of Photonics,lightwave display photonics 
+EECS 434 - Principles of Photonics,system applications ultra high peak power lasers
+EECS 435 - Fourier Optics,fourier optics physical fourier transform relations
+EECS 435 - Fourier Optics,optical systems image formation lenses
+EECS 435 - Fourier Optics,frequency response diffraction limited aberrated imaging systems
+EECS 435 - Fourier Optics,coherent incoherent light imagery
+EECS 435 - Fourier Optics,resolution limitations optical information processing spatial matched filtering
+EECS 441 - Mobile App Development for Entrepreneurs,software engineering mobile applications
+EECS 441 - Mobile App Development for Entrepreneurs,mobile app Development software entrepreneurs
+EECS 441 - Mobile App Development for Entrepreneurs,design production marketing
+EECS 441 - Mobile App Development for Entrepreneurs,entrepreneurship
+EECS 442 - Computer Vision,2d 3d computer vision 
+EECS 442 - Computer Vision,camera models geometry multiple views shape reconstruction methods
+EECS 442 - Computer Vision,visual cues stereo shading shadow contours 
+EECS 442 - Computer Vision,low mid high level image processing 
+EECS 442 - Computer Vision,edge feature detection segmentation clustering face detection object scene recognition object categorization human tracking
+EECS 443 - Senior Thesis,research proposal plan
+EECS 443 - Senior Thesis,faculty advisor
+EECS 443 - Senior Thesis,senior thesis
+EECS 443 - Senior Thesis,work cheif program advisor designate
+EECS 445 - Introduction to Machine Learning,theory implementation machine learning algorithms
+EECS 445 - Introduction to Machine Learning,supervised learning regression classification kernel methods neural networks regularization
+EECS 445 - Introduction to Machine Learning,unsupervised clustering density estimation dimensionality reduction
+EECS 445 - Introduction to Machine Learning,mathematical principles algorithmic
+EECS 452 - Digital Signal Processing Design Laboratory,dsp digital signal processing design laboratory
+EECS 452 - Digital Signal Processing Design Laboratory,processors systemes on chip embedded programming
+EECS 452 - Digital Signal Processing Design Laboratory,real time audio machine vision control communication
+EECS 452 - Digital Signal Processing Design Laboratory,team projects
+EECS 453 - Principles of Machine Learning,machine learning unsupervised supervised reinforcement learning
+EECS 453 - Principles of Machine Learning,clustering mixture models dimension reduction
+EECS 453 - Principles of Machine Learning,regression classification neural networks deep learning
+EECS 453 - Principles of Machine Learning,mathematical principles key algorithmic theoretical insights
+EECS 455 - Wireless Communication Systems,Digital communication signals systems
+EECS 455 - Wireless Communication Systems,fundamental limits reliable communications energy bandwidth efficiency trade-offs
+EECS 455 - Wireless Communication Systems,optimum receiver principles modulation techniques phase shift keying quadrature modulation OFDM
+EECS 455 - Wireless Communication Systems,block convolutional coding decoding
+EECS 455 - Wireless Communication Systems,applications wireless communication systems synchronization quantization lossless compression signals fundamental limits compression entropy
+EECS 458 - Biomedical Instrumentation and Design,functioning biomedical instruments
+EECS 458 - Biomedical Instrumentation and Design,instrumentation amplifiers active filters constructed operational amplifiers
+EECS 458 - Biomedical Instrumentation and Design,Signal acquisition processing analysis
+EECS 458 - Biomedical Instrumentation and Design,measurement respiratory volume flow rates biopotentials electrocardiogram optical analysis arterial blood oxygen saturation pulse-oximetry
+EECS 460 - Control Systems Analysis and Design,analysis design controllers applicable
+EECS 460 - Control Systems Analysis and Design,automotive aerospace computer communication chemical bioengineering power
+EECS 460 - Control Systems Analysis and Design,time frequency domain methods
+EECS 460 - Control Systems Analysis and Design,Root locus Nyquist Bode plot based 
+EECS 460 - Control Systems Analysis and Design,control systems anaysis design computer based experiment
+EECS 461 - Embedded Control Systems,implement microprocessor based control system
+EECS 461 - Embedded Control Systems,Sensors actuators Quadrature decoding Pulse width modulation DC motors
+EECS 461 - Embedded Control Systems,Force feedback algorithms human computer interaction
+EECS 461 - Embedded Control Systems,Real time operating systems
+EECS 461 - Embedded Control Systems,Networking MATLAB model hybrid dynamical systems Autocode generation rapid prototyping
+EECS 461 - Embedded Control Systems,embedded control systems
+EECS 463 - Power Systems Design and Operations,Power systems overview design operations
+EECS 463 - Power Systems Design and Operations,Fundamentals phasors complex power three phases
+EECS 463 - Power Systems Design and Operations,Transformer modeling Transmission line modeling
+EECS 463 - Power Systems Design and Operations,Power flow analysis Power system control Protection Economic operation electricity markets
+EECS 463 - Power Systems Design and Operations,Impact renewable generation grid operation control
+EECS 464 - Hands-on Robotics,principles robotics robot design
+EECS 464 - Hands-on Robotics,Multiple team projects design implementation robot
+EECS 464 - Hands-on Robotics,Theory motors kinematics mechanisms sensing filtering planning pinhole cameras
+EECS 464 - Hands-on Robotics,servo control project management fabrication software design robotics
+EECS 464 - Hands-on Robotics,hands on project based
+EECS 465 - Introduction to Algorithmic Robotics,algorithms form foundation robot planning state estimation control
+EECS 465 - Introduction to Algorithmic Robotics,optimization motion planning representations uncertainty
+EECS 465 - Introduction to Algorithmic Robotics,Kalman particle filters point cloud processing
+EECS 465 - Introduction to Algorithmic Robotics,programming robot perform tasks simulation
+EECS 465 - Introduction to Algorithmic Robotics,algorithms robotics robots introduction
+EECS 467 - Autonomous Robotics Design Experience,Software methods implementation robot perception world mapping control physical robots
+EECS 467 - Autonomous Robotics Design Experience,sensor sensor processing control motion planning localization
+EECS 467 - Autonomous Robotics Design Experience,mapping forward inverse kinematics
+EECS 467 - Autonomous Robotics Design Experience,Multiple team projects culminating major design experience MDE project.
+EECS 467 - Autonomous Robotics Design Experience,autonomous robotics robot design project team experience
+EECS 470 - Computer Architecture,processors speculation memory hierarchies branch prediction
+EECS 470 - Computer Architecture,virtual memory cache design multi processors parallel processing
+EECS 470 - Computer Architecture,cache coherence consistency
+EECS 470 - Computer Architecture,Emphasis power performance trade offs
+EECS 470 - Computer Architecture,design advanced out of order multi core SMT processor HDL
+EECS 470 - Computer Architecture,computer Architecture fully synthesizable out of order processor
+EECS 471 - Applied Parallel Programming with GPUs,Parallel computing application development massively parallel processors GPUs
+EECS 471 - Applied Parallel Programming with GPUs,parallelism programming models CUDA mapping computations parallel hardware
+EECS 471 - Applied Parallel Programming with GPUs,efficient data structures paradigms efficient parallel algorithms
+EECS 471 - Applied Parallel Programming with GPUs,Applied Parallel Programming GPUs graphics processing unit
+EECS 473 - Advanced Embedded Systems,Design hardware software modern embedded systems
+EECS 473 - Advanced Embedded Systems,Real time operating systems Device drivers general operating systems OS
+EECS 473 - Advanced Embedded Systems,PCB design power integrity electromagnetic interference
+EECS 473 - Advanced Embedded Systems,Radio frequency wireless communication Low power design DC converter design PCBs
+EECS 473 - Advanced Embedded Systems,Rapid prototyping embedded systems complete advanced embedded system
+EECS 475 - Introduction to Cryptography,Cryptography building secure computing communication systems cryptographic applications
+EECS 475 - Introduction to Cryptography,algorithms encryption schemes protocols
+EECS 475 - Introduction to Cryptography,symmetric private key encryption public key encryption hash functions digital signatures key distribution
+EECS 475 - Introduction to Cryptography,core scientific principles cryptography build secure software communication systems
+EECS 475 - Introduction to Cryptography,privacy security authenticity data communications
+EECS 477 - Introduction to  Algorithms,Fundamental techniques designing effi cient algorithms basic mathematical methods analyzing performance
+EECS 477 - Introduction to  Algorithms,Paradigms algorithm design divide conquer greedy methods graph search techniques dynamic programming
+EECS 477 - Introduction to  Algorithms,Design efficient data structures analysis 
+EECS 477 - Introduction to  Algorithms,running time space requirements algorithms worst average cases
+EECS 477 - Introduction to  Algorithms,algorithms computer science introduction cs
+EECS 482 - Introduction to Operating Systems,Operating system design implementation OS implemtnation computers
+EECS 482 - Introduction to Operating Systems,multi-tasking concurrency synchronization inter process communication deadlock scheduling
+EECS 482 - Introduction to Operating Systems,resource allocation memory storage management input output file systems protection security
+EECS 482 - Introduction to Operating Systems,concurrency synchronization multi task environment
+EECS 482 - Introduction to Operating Systems,file systems memory management
+EECS 483 - Compiler Construction,compiling techniques parsing algorithms
+EECS 483 - Compiler Construction,semantic processing optimization
+EECS 483 - Compiler Construction,compiler construction substantial programming language compiler generating system
+EECS 484 - Database Management Systems,design creation query management large enterprise databases
+EECS 484 - Database Management Systems,database management systems Query languages SQL forms embedded SQL
+EECS 484 - Database Management Systems,Database design integrity normalization access methods query optimization transaction management concurrency control recovery
+EECS 485 - Web Systems,web systems applications internet scale distributed systems
+EECS 485 - Web Systems,client server protocols security information retrieval search engines scalable data processing fault tolerant systems
+EECS 485 - Web Systems,web applications web systems
+EECS 487 - Introduction to Natural Language Processing,natural language processing NLP linguistics
+EECS 487 - Introduction to Natural Language Processing,syntax parsing lexical semantics compositional semantics
+EECS 487 - Introduction to Natural Language Processing,discourse analysis information extraction sentiment analysis question answering summarization dialogue systems machine translation text generation
+EECS 489 - Computer Networks,Protocols architectures computer networks
+EECS 489 - Computer Networks,client server computing socket programming
+EECS 489 - Computer Networks,protocol design principles flow congestion control
+EECS 489 - Computer Networks,design choices actual implementation issues
+EECS 490 - Programming Languages,Fundamental concepts programming languages writing programming languages
+EECS 490 - Programming Languages,functional imperative object oriented logic programming languages
+EECS 490 - Programming Languages,control flow memory management concurrency modularity
+EECS 490 - Programming Languages,methodologies techniques tools writing correct maintainable programs
+EECS 491 - Introduction to Distributed Systems,Distributed systems
+EECS 491 - Introduction to Distributed Systems,abstractions simplifying development distributed systems
+EECS 492 - Introduction to Artificial Intelligence,core concepts AI Artificial Intelligence
+EECS 492 - Introduction to Artificial Intelligence,building computational agents
+EECS 492 - Introduction to Artificial Intelligence,search logic knowledge representation reasoning planning decision making uncertainty machine learning
+EECS 494 - Computer Game Design and Development,design development computer games video games game design
+EECS 494 - Computer Game Design and Development,history games 2D graphics animation sprites 3D
+EECS 494 - Computer Game Design and Development,binary space partition trees software engineering game design interactive fiction user interfaces
+EECS 494 - Computer Game Design and Development,artificial intelligence game SDK networking multiplayer games game development environments commercialization software
+EECS 495 - Software Development for Accessibility,large complex software systems software development methodology
+EECS 495 - Software Development for Accessibility,dealing with disability illness accessibility
+EECS 495 - Software Development for Accessibility,disabled clients team based software systems development
+EECS 496 - Major Design Experience-Professionalism,Design principles multidisciplinary team projects
+EECS 496 - Major Design Experience-Professionalism,team strategies entrepreneurial skills ethics social environmental awareness
+EECS 496 - Major Design Experience-Professionalism,major design experience professionalism professionals
+EECS 497 - Human-Centered Software Design and Development,Team based user centered design development complex software systems
+EECS 497 - Human-Centered Software Design and Development,effective design strategies project management methodologies
+EECS 497 - Human-Centered Software Design and Development,customer discovery contextual inquiry prototyping process models creative problem solving inclusive thinking team dynamics social concerns testing strategies
+EECS 497 - Human-Centered Software Design and Development,projects teams software design development human centered
+EECS 498 - Special Topics,Intelligent Programming Systems Advanced Operating Systems Projects Extended Reality Society Machine Learning Basics Optics Photonics Power Electronics Reinforcement Learning
+EECS 499 - Advanced Directed Study,substantial research problems EECS special interest design problems
+EECS 499 - Advanced Directed Study,research advancded directed study professors
+EECS 501 - Probability and Random Processes,probability random processes
+EECS 501 - Probability and Random Processes,probability axioms sigma algebras random vectors expectation probability distributions densities
+EECS 501 - Probability and Random Processes,Poisson Wiener processes stationary processes autocorrelation spectral density effects filtering linear least squares estimation convergence random sequences
+EECS 507 - Introduction to Embedded System Research,research related to embedded system analysis design synthesis
+EECS 507 - Introduction to Embedded System Research,fundamental embedded systems topics
+EECS 517 - Proc Plasma,Plasma physics electrical gas discharges material processing physics plasma proc
+EECS 517 - Proc Plasma,Gas kinetics atomic collisions transport coefficients drift diffusion sheaths Boltzmann distribution function calculation plasma simulation
+EECS 517 - Proc Plasma,plasma diagnostics particle probes spectroscopy electromagnetic waves analysis commonly plasma tools materials processing
+EECS 520 - Solid State Physics,Crystal structure Phonons Introduction Quantum Mechanics
+EECS 520 - Solid State Physics,Free electron Fermi gas Low dimensional conductor Electronic structure Energy bands Properties semiconductors
+EECS 520 - Solid State Physics,Dielectrics response Light absorption emission Magnetic effects Superconductivity
+EECS 520 - Solid State Physics,phyiscs solid state gases energy electricity electric
+EECS 523 - Digital Integ Tech,Integrated circuit fabrication overview digital integ tech
+EECS 523 - Digital Integ Tech,Long channel device I V review short channel MOSFET I V characteristics velocity saturation mobility degradation hot carriers gate depletion
+EECS 523 - Digital Integ Tech,MOS device scaling strategies silicon insulator lightly doped drain structures chip interconnect parasitics performance Major CMOS scaling challenges Process circuit simulation
+EECS 530 - Electromagnetic Theory I,Maxwells equations constitutive relations boundary conditions
+EECS 530 - Electromagnetic Theory I,Potentials representation electromagnetic fields
+EECS 530 - Electromagnetic Theory I,Uniqueness duality equivalence reciprocity Babinets theorems Plane cylindrical spherical waves Waveguides elementary antennas
+EECS 530 - Electromagnetic Theory I,Electromagnetic theory electrostatics magnetostatics physics
+EECS 540 - Applied Quantum Mechanics,nonrelativistic quantum mechanics applied quantum mechanics
+EECS 540 - Applied Quantum Mechanics,classical mechanics postulates quantum mechanics operator formalism stationary state problems
+EECS 540 - Applied Quantum Mechanics,time evolution approximation methods time independent time dependent interactions electromagnetic interactions scattering
+EECS 542 - Advanced Topics in Computer Vision,computer vision
+EECS 542 - Advanced Topics in Computer Vision,physics vision geometry motion tracking reconstruction grouping
+EECS 542 - Advanced Topics in Computer Vision,segmentation recognition activity scene understanding statistical methods learning systems applications
+EECS 544 - Analysis of Societal Networks,societal networks
+EECS 544 - Analysis of Societal Networks,graph theory linear algebra probability game theory
+EECS 551 - Matrix Methods for Signal Processing Data Analysis and Machine Learning,matrix methods signal processing data analysis machine learning
+EECS 551 - Matrix Methods for Signal Processing Data Analysis and Machine Learning,eigenvalue singular value decomposition projection theorem constrained regularized unconstrained least squares techniques iterative algorithms
+EECS 551 - Matrix Methods for Signal Processing Data Analysis and Machine Learning,image deblurring ranking of webpages image segmentation compression social networks circuit analysis recommender systems handwritten digit recognition
+EECS 553 - Machine Learn (ECE),supervised unsupervised sequential learning linear nonlinear regression logistic regression support vector machines
+EECS 553 - Machine Learn (ECE),kernel methods decision trees ensemble methods neural networks deep learning dimension reduction clustering probabilistic models
+EECS 553 - Machine Learn (ECE),algorithms derivation fundamental principles machine learn real world data
+EECS 554 - Introduction to Digital Communication and Coding,Digital transmission information discrete analog channels
+EECS 554 - Introduction to Digital Communication and Coding,Sampling quantization noiseless source codes data compression Huffmans algorithm and entropy block convolutional channel codes error correction channel capacity
+EECS 554 - Introduction to Digital Communication and Coding,PSK MSK FSK QAM matched filter receivers
+EECS 554 - Introduction to Digital Communication and Coding,power bandwidth data rate error probability
+EECS 558 - Stochastic Control,second order properties random processes stochastic control
+EECS 558 - Stochastic Control,nonparametric model techniques spectral estimation characterization output statistics nonlinear systems time frequency representations
+EECS 558 - Stochastic Control,asymptotic techniques Monte Carlo simulation
+EECS 558 - Stochastic Control,speech processing signal extrapolation multidimensional spectral estimation beamforming
+EECS 560 - Linear Systems Theory,Linear spaces linear operators systems theory
+EECS 560 - Linear Systems Theory,Bases subspaces eigenvalues eigenvectors canonical form
+EECS 560 - Linear Systems Theory,causality controllability observability realizations canonical decomposition stability
+EECS 561 - Design of Digital Control Systems,Sampling data reconstruction
+EECS 561 - Design of Digital Control Systems,Computer simulations laboratory implementation real time control systems
+EECS 561 - Design of Digital Control Systems,digital control system discrete time systems state variable descriptions
+EECS 563 - Hybrid Systems Analysis and Control,analysis design hybrid systems hybrid control systems
+EECS 563 - Hybrid Systems Analysis and Control,Hybrid system modeling formalisms specifications automata theory temporal logics verification barrier certificates reachable sets abstractions methods control synthesis
+EECS 563 - Hybrid Systems Analysis and Control,Model predictive control hybrid systems
+EECS 564 - Estimation Filtering and Detection,Principles estimation linear filtering detection
+EECS 564 - Estimation Filtering and Detection,linear nonlinear minimum mean squared error estimation
+EECS 564 - Estimation Filtering and Detection,Linear filtering Wiener Kalman filtering
+EECS 564 - Estimation Filtering and Detection,simple composite binary multiple hypotheses
+EECS 564 - Estimation Filtering and Detection,Neyman Pearson Bayesian approaches
+EECS 574 - Computational Complexity,theory computation complex theory computational complexity
+EECS 574 - Computational Complexity,Computatability undecidability logic
+EECS 574 - Computational Complexity,Relations between complexity classes NP completeness P completeness randomized computation
+EECS 575 - Advanced Cryptography,design cryptosystems cryptanalysis cryptography advanced
+EECS 575 - Advanced Cryptography,cryptanalysis classical cryptosystems theoretical analysis functions DES differential cryptanalysis RSA cryptosystem ElGamal elliptic
+EECS 575 - Advanced Cryptography,hyperelliptic hidden mononomial cryptosystems attacks signature schemes identification schemes authentication codes secret sharing zero knowledge
+EECS 582 - Advanced Operating Systems,operating systems OS
+EECS 582 - Advanced Operating Systems,distributed systems languages networking security protection realtime systems modeling analysis
+EECS 584 - Advanced Database Systems,database management systems advanced
+EECS 584 - Advanced Database Systems,Distributed databases advanced query optimization query processing transaction processing data models architectures
+EECS 587 - Parallel Computing,programs parallel computers computing Grid computing Performance analysis
+EECS 587 - Parallel Computing,speedup load balancing latency system taxonomies
+EECS 595 - Natural Language Processing,Linguistics fundamentals natural language processing NLP
+EECS 595 - Natural Language Processing,speech tagging hidden Markov models syntax parsing lexical semantics compositional semantics word sense disambiguation machine translation
+EECS 598 - Special Topics,Intelligent Programming Systems VLSI wireless communication machine learning Theory Network Design Advanced Accessibility Quantum Computing Information Probability Machine Learning Computational Biology Artificial Intelligence Biomedicine Chip Fabrication Verification Causality Machine Learning
+EECS 598 - Special Topics,Quantum Computing Systems Architecture Reinforcement Learning Solution Processed Optoelectronics Colloidal Nanomaterials Biomedical Applications Skills Graduate Studies
+EECS 599 - Directed Study,Individual study advanced topics electrical engineering computer science
+EECS 628 - Advanced High Performance VLSI Design,Advanced issues VLSI design high performance low power reliability
+EECS 628 - Advanced High Performance VLSI Design,leakage control high speed chip communication memory design soft error failures noise analysis control error tolerant design circuit families
