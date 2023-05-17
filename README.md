@@ -1,4 +1,4 @@
-# OrgAInise 
+# OrgAInize 
 is a machine learning model developed under Python that provides a user precise class recommendation for the University of Michigan EECS department. 
 
 ## Motivation: 
