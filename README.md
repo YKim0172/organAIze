@@ -1,13 +1,14 @@
 # OrgAInize 
-is a machine learning model developed under Python that provides a user precise class recommendation for the University of Michigan EECS department. 
+is a website developed using Python and Django that provides a user-precise class recommendation through our machine learning algorithm for the University of Michigan EECS department. 
 
 ## Motivation: 
 As current undergraduate students studying computer science at the University of Michigan, we have both grown tired of the need to constantly scroll through the course catalog to search for specific classes. A simple Google-like search on our website allows for students to quickly get a list of classes that are ranked in different categories to meet a student's needs. 
 
 ## How to use: 
-1. The database allows a user to create an account by storing their email, password, and classes-taken. 
-2. After registering/logging-in, the user is taken to the main page where they will be able to enter a prompt into the textbook (e.g “I want to learn about web development). 
-3.  The machine learning algorithm will take the prompt and return 5 classes (excluding classes-taken), under 3 different categories. 
+1. The database allows a user to create an account by storing their email and password.
+2. Users are able to indicate classes that they have taken. This would prevent recommendations of already taken classes. 
+3. After registering/logging-in, the user is taken to the main page where they will be able to enter a prompt into the textbook (e.g “I want to learn about web development). 
+4.  The machine learning algorithm will take the prompt and return 5 classes (excluding classes-taken), under 3 different categories. 
     - Most relevant classes to the prompt
     - The classes that have the highest average GPA
     - The classes that require the least amount of time/work
