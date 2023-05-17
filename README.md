@@ -12,7 +12,3 @@ As current undergraduate students studying computer science at the University of
     - The classes that have the highest average GPA
     - The classes that require the least amount of time/work
 
-
-## How it works: 
-We first trained the classifier by implementing the “Bag of Words” model which would associate each EECS class with certain keywords. Then, with the trained classifier, it assigns each EECS class a log-probability score dependent on the prompt that was inputted by the user. The EECS classes’ scores are compared and depending on the category, they are outputted in the order of the top five highest scores. 
-
