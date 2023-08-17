@@ -73,6 +73,7 @@ class Student(models.Model):
     taken_EECS475 = models.BooleanField(blank=True, default=False)
     taken_EECS477 = models.BooleanField(blank=True, default=False)
 
+    taken_EECS481 = models.BooleanField(blank=True, default=False)
     taken_EECS482 = models.BooleanField(blank=True, default=False)
     taken_EECS483 = models.BooleanField(blank=True, default=False)
     taken_EECS484 = models.BooleanField(blank=True, default=False)
@@ -118,6 +119,7 @@ class Student(models.Model):
     taken_EECS575 = models.BooleanField(blank=True, default=False)
 
     taken_EECS582 = models.BooleanField(blank=True, default=False)
+    taken_EECS583 = models.BooleanField(blank=True, default=False)
     taken_EECS584 = models.BooleanField(blank=True, default=False)
     taken_EECS587 = models.BooleanField(blank=True, default=False)
 
