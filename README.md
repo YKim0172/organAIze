@@ -30,6 +30,7 @@ As current undergraduate students studying computer science at the University of
 - Our edit profile page allows the user to add in courses that they have already taken at the University of Michigan. This will prevent repeat classes from popping up in the ML algorithm. 
 
 ![ezgif-2-2f3e888972](https://github.com/YKim0172/organAIze/assets/132183038/839c0d65-1914-4738-b79f-70a05c95e051)
+
 - This is a demo of the machine learning algorithm. Here, the user inputs "web development" as their topic of choice. The machine learning algorithm takes those keywords in and provides the user with the best classes to take given the input. 
 
 
