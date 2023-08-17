@@ -31,3 +31,7 @@ As current undergraduate students studying computer science at the University of
 
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/b963965a-5db7-4fab-9a3d-dde24053c500)
 
+
+
+https://github.com/YKim0172/organAIze/assets/132183038/acedc031-e32b-4c32-bb65-11a215c93f8b
+
