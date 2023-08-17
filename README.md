@@ -13,7 +13,8 @@ As current undergraduate students studying computer science at the University of
     - The classes that have the highest average GPA
     - The classes that require the least amount of time/work
 
-![image](https://github.com/YKim0172/organAIze/assets/132183038/65755559-1385-4c0a-9eaa-60bd012dce11)
+## Screenshots:
+![image](https://github.com/YKim0172/organAIze/assets/132183038/a15ceb07-1073-40c2-b698-515443403a69)
 - Our homepage provides the user with necessary information on how OrganAIze works and how they can use it.
 
 
@@ -21,3 +22,9 @@ As current undergraduate students studying computer science at the University of
 - This is the login page where users can choose to login to their preexisting account or to signup as a new user. 
 
 
+![image](https://github.com/YKim0172/organAIze/assets/132183038/ef3f389c-deb3-4529-87bd-253b5fe0310c)
+- This is the signup page for new coming users to create an account in order to use OrganAIze.  
+
+
+![image](https://github.com/YKim0172/organAIze/assets/132183038/c105349d-187f-41c7-992f-2d56873c039f)
+- Our edit profile page allows the user to add in courses that they have already taken at the University of Michigan. This will prevent repeat classes from popping up in the ML algorithm. 
