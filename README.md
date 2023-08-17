@@ -14,3 +14,4 @@ As current undergraduate students studying computer science at the University of
     - The classes that require the least amount of time/work
 
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/65755559-1385-4c0a-9eaa-60bd012dce11)
+Our homepage provides the user with necessary information on how OrganAIze works and how they can use it.
