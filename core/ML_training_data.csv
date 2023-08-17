@@ -277,6 +277,7 @@ EECS 477 - Introduction to  Algorithms,Paradigms algorithm design divide conquer
 EECS 477 - Introduction to  Algorithms,Design efficient data structures analysis 
 EECS 477 - Introduction to  Algorithms,running time space requirements algorithms worst average cases
 EECS 477 - Introduction to  Algorithms,algorithms computer science introduction cs
+EECS 481 - Software Engineering,software engineering project group
 EECS 482 - Introduction to Operating Systems,Operating system design implementation OS implemtnation computers
 EECS 482 - Introduction to Operating Systems,multi-tasking concurrency synchronization inter process communication deadlock scheduling
 EECS 482 - Introduction to Operating Systems,resource allocation memory storage management input output file systems protection security
@@ -386,6 +387,7 @@ EECS 575 - Advanced Cryptography,design cryptosystems cryptanalysis cryptography
 EECS 575 - Advanced Cryptography,cryptanalysis classical cryptosystems theoretical analysis functions DES differential cryptanalysis RSA cryptosystem ElGamal elliptic
 EECS 575 - Advanced Cryptography,hyperelliptic hidden mononomial cryptosystems attacks signature schemes identification schemes authentication codes secret sharing zero knowledge
 EECS 582 - Advanced Operating Systems,operating systems OS
+EECS 583 - Advanced Compilers,compilers architectures parallelism memory hierarchy
 EECS 582 - Advanced Operating Systems,distributed systems languages networking security protection realtime systems modeling analysis
 EECS 584 - Advanced Database Systems,database management systems advanced
 EECS 584 - Advanced Database Systems,Distributed databases advanced query optimization query processing transaction processing data models architectures
