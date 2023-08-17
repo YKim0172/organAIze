@@ -13,4 +13,4 @@ As current undergraduate students studying computer science at the University of
     - The classes that have the highest average GPA
     - The classes that require the least amount of time/work
 
-https://cdn.discordapp.com/attachments/1089760916159086675/1141623845799854190/homepage.png
+![image](https://github.com/YKim0172/organAIze/assets/132183038/65755559-1385-4c0a-9eaa-60bd012dce11)
