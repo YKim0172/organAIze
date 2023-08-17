@@ -33,5 +33,5 @@ As current undergraduate students studying computer science at the University of
 
 
 
-https://github.com/YKim0172/organAIze/assets/132183038/acedc031-e32b-4c32-bb65-11a215c93f8b
+![Untitled-video-Made-with-Clipcha](https://github.com/YKim0172/organAIze/assets/132183038/ad2e0eb1-0a61-4679-831d-d1adbce43281)
 
