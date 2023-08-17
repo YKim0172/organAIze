@@ -29,7 +29,7 @@ As current undergraduate students studying computer science at the University of
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/c105349d-187f-41c7-992f-2d56873c039f)
 - Our edit profile page allows the user to add in courses that they have already taken at the University of Michigan. This will prevent repeat classes from popping up in the ML algorithm
 
-![ezgif-2-2f3e888972](https://github.com/YKim0172/organAIze/assets/132183038/839c0d65-1914-4738-b79f-70a05c95e051)
+![ezgif-2-2f3e888972](https://github.com/YKim0172/organAIze/assets/132183038/75033178-af3c-444a-8d23-cc8735b1b912)
 
 - This is a demo of the machine learning algorithm. Here, the user inputs "web development" as their topic of choice. The machine learning algorithm takes those keywords in and provides the user with the top 5 classes for their input. These classes are ranked on three different categories, relevancy, difficulty (average GPA), and time commitment
 
