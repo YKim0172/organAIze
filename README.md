@@ -15,22 +15,22 @@ As current undergraduate students studying computer science at the University of
 
 ## Screenshots:
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/a15ceb07-1073-40c2-b698-515443403a69)
-- Our homepage provides the user with necessary information on how OrganAIze works and how they can use it.
+- Our homepage provides the user with necessary information on how OrganAIze works and how they can use it
 
 
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/b2370367-4869-4f06-9d79-cb4c969fb4e5)
-- This is the login page where users can choose to login to their preexisting account or to signup as a new user. 
+- This is the login page where users can choose to login to their preexisting account or to signup as a new user
 
 
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/ef3f389c-deb3-4529-87bd-253b5fe0310c)
-- This is the signup page for new coming users to create an account in order to use OrganAIze.  
+- This is the signup page for new coming users to create an account in order to use OrganAIze
 
 
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/c105349d-187f-41c7-992f-2d56873c039f)
-- Our edit profile page allows the user to add in courses that they have already taken at the University of Michigan. This will prevent repeat classes from popping up in the ML algorithm. 
+- Our edit profile page allows the user to add in courses that they have already taken at the University of Michigan. This will prevent repeat classes from popping up in the ML algorithm
 
 ![ezgif-2-2f3e888972](https://github.com/YKim0172/organAIze/assets/132183038/839c0d65-1914-4738-b79f-70a05c95e051)
 
-- This is a demo of the machine learning algorithm. Here, the user inputs "web development" as their topic of choice. The machine learning algorithm takes those keywords in and provides the user with the best classes to take given the input. 
+- This is a demo of the machine learning algorithm. Here, the user inputs "web development" as their topic of choice. The machine learning algorithm takes those keywords in and provides the user with the top 5 classes for their input. These classes are ranked on three different categories, relevancy, difficulty (average GPA), and time commitment
 
 
