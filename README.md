@@ -14,10 +14,10 @@ As current undergraduate students studying computer science at the University of
     - The classes that require the least amount of time/work
 
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/65755559-1385-4c0a-9eaa-60bd012dce11)
-Our homepage provides the user with necessary information on how OrganAIze works and how they can use it.
+- Our homepage provides the user with necessary information on how OrganAIze works and how they can use it.
 
 
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/b2370367-4869-4f06-9d79-cb4c969fb4e5)
-This is the login page where users can choose to login to their preexisting account or to signup as a new user. 
+- This is the login page where users can choose to login to their preexisting account or to signup as a new user. 
 
 
