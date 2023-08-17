@@ -29,4 +29,5 @@ As current undergraduate students studying computer science at the University of
 ![image](https://github.com/YKim0172/organAIze/assets/132183038/c105349d-187f-41c7-992f-2d56873c039f)
 - Our edit profile page allows the user to add in courses that they have already taken at the University of Michigan. This will prevent repeat classes from popping up in the ML algorithm. 
 
-![ezgif-2-f1efe1abbc](https://github.com/YKim0172/organAIze/assets/132183038/6b628009-f0d8-45f4-a585-769c1b49942d)
+![image](https://github.com/YKim0172/organAIze/assets/132183038/b963965a-5db7-4fab-9a3d-dde24053c500)
+
