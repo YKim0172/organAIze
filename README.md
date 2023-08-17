@@ -14,19 +14,19 @@ As current undergraduate students studying computer science at the University of
     - The classes that require the least amount of time/work
 
 ## Screenshots:
-![image](https://github.com/YKim0172/organAIze/assets/132183038/a15ceb07-1073-40c2-b698-515443403a69)
+![image](https://github.com/YKim0172/organAIze/assets/132183038/bb444934-09fc-45b6-a9a7-e239bebd1c1e)
 - Our homepage provides the user with necessary information on how OrganAIze works and how they can use it
 
 
-![image](https://github.com/YKim0172/organAIze/assets/132183038/b2370367-4869-4f06-9d79-cb4c969fb4e5)
+![image](https://github.com/YKim0172/organAIze/assets/132183038/5d20063e-7c53-4997-b774-5f5413935612)
 - This is the login page where users can choose to login to their preexisting account or to signup as a new user
 
 
-![image](https://github.com/YKim0172/organAIze/assets/132183038/ef3f389c-deb3-4529-87bd-253b5fe0310c)
+![image](https://github.com/YKim0172/organAIze/assets/132183038/a3ecd572-c967-4d11-b46a-f59d57855530)
 - This is the signup page for new coming users to create an account in order to use OrganAIze
 
 
-![image](https://github.com/YKim0172/organAIze/assets/132183038/c105349d-187f-41c7-992f-2d56873c039f)
+![image](https://github.com/YKim0172/organAIze/assets/132183038/f7e07c27-fcee-46ea-add5-e8e768e8d501)
 - Our edit profile page allows the user to add in courses that they have already taken at the University of Michigan. This will prevent repeat classes from popping up in the ML algorithm
 
 ![ezgif-2-2f3e888972](https://github.com/YKim0172/organAIze/assets/132183038/75033178-af3c-444a-8d23-cc8735b1b912)
